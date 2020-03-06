@@ -1,5 +1,5 @@
 # PCIM
-Processing and Coding for Multimedia Information
+Processing and Coding for Multimedia Information | All code was made in Matlab
 
 
 Audio Lab 1 - Audio quantization, correlation, SNR
