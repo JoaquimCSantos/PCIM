@@ -14,3 +14,12 @@ Image Lab 1 - Convolution, filters,Kernels, Outline Detection
 Image Lab 2 - Colours histogram, Clustering, Region Growing
 
 Image Lab 3 - Comparing Colour Histogram, Image Activity Measure, Motion Estimation
+
+=======
+Processing and Coding of Multimedia Information course unit in the Integrated Masters of Electrical and 
+Computer Engineering at FEUP.
+
+On this course there were six projects. Three dedicated to video processing and three to audio processing
+
+It is provided a make file for each of the projects.
+
